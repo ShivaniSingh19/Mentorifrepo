@@ -1,0 +1,12 @@
+<!doc type>
+<html>
+<head>
+<title>HTML Document</title>
+</head>
+<body>
+<h1>Hello World!!!</h1>
+<script>
+console.log("It's Shivani")
+</script>
+</body>
+</html>
